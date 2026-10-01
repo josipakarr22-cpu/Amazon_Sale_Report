@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Jupyter
+*.log
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Large raw/cleaned data files
+data/raw/*.csv
+data/cleaned/*.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
